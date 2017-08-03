@@ -1,6 +1,14 @@
 # KGS-Summary-SIF-Reddit
 This is a template for the KLab Games Station summary post for /r/SchoolIdolFestival
 
+Created by: /u/LoveArrowShooto
+
+How to use?
+
+- Replace all text and links to the relevant content.
+
+- Copy and paste to Reddit post as text. 
+
 ### EVENT
 
 RikoRuby Score Match ends tomorrow, August 4, 2017.
