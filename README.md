@@ -5,9 +5,9 @@ Created by: /u/LoveArrowShooto
 
 How to use?
 
-- Replace all text and links to the relevant content.
+- Click on "README.md" and then select "Raw"
 
-- Copy and paste to Reddit post as text. 
+- Copy and paste to Reddit as text and replace all title, text, and links with the relevant content. Use Imgur to link images.
 
 ### EVENT
 
