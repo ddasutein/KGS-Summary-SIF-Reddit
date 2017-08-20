@@ -62,7 +62,7 @@ Time Zone | Time (12hr format) | Time (24hr format)
 :--|:--|:--
 Sydney, Australia | 1:00 PM | 13:00
 Singapore | 11:00 AM | 11:00 
-Los Angeles, USA | 07:00 PM | 20:00
+Los Angeles, USA | 08:00 PM | 20:00
 Kansas City, USA | 10:00 PM | 22:00
 New York City, USA | 11:00 PM | 23:00
 London, UK | 04:00 AM | 04:00
