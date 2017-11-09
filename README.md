@@ -13,6 +13,8 @@ How to use?
 
 RikoRuby Score Match ends tomorrow, August 4, 2017.
 
+_______
+
 ### B-Side Track
 
 "Cutie Panther" will be available as an exclusive B-Side track from August 11 to 18.
@@ -20,6 +22,7 @@ RikoRuby Score Match ends tomorrow, August 4, 2017.
 [Click me for TIPS](http://i.imgur.com/hFZNcjR.png)
 
 *Note: Dates subject to change*
+
 _______
 
 ### Scout Schedules
@@ -50,13 +53,13 @@ Cafe Maid Series | July 29, 2017
 
 _______
 
-### Special Login Bonus on August 5 and 6 for the Nagoya Aqours Happy Party Train Live Concert
+### INSERT ADDITIONAL INFO HERE
 
-* Scouting tickets for both days 
+* USE BULLET POINTS
 
 _______
 
-KLab Games Station airs every week on Thursday at 12 PM Japan time. You can watch it live on Facebook, YouTube, or [Twitch](https://www.twitch.tv/klabgamesstation).
+KLab Games Station airs every week on Thursday at 12 PM Japan time. You can watch it live on Facebook, YouTube, or [Twitch](https://www.twitch.tv/klabgamesstation). Note, this time chart does not reflect Daylight Saving Time (DST). You may adjust the time accordingly from Japan Time. 
 
 Time Zone | Time (12hr format) | Time (24hr format)
 :--|:--|:--
@@ -71,4 +74,4 @@ _______
 
 Missed out on the broadcast? 
 
-Watch the replay: [Facebook](https://www.facebook.com/1059608027470794/videos/1366742633423997/) | [YouTube](https://www.youtube.com/watch?v=frKwmtWM3RI)
+Watch the replay: [Facebook](INSERT URL HERE) or [YouTube](INSERT URL HERE)
