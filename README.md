@@ -9,6 +9,9 @@ How to use?
 
 - Copy and paste to Reddit as text and replace all title, text, and links with the relevant content. Use Imgur to link images.
 
+- Set the title as **"[Information] KLab Games Station Episode -EP # HERE- SIF Global/WW Corner Summary: -Insert Slogan (Optional)-
+
+
 ### EVENT
 
 RikoRuby Score Match ends tomorrow, August 4, 2017.
@@ -53,6 +56,12 @@ Cafe Maid Series | July 29, 2017
 
 _______
 
+### STREAM HIGHLIGHTS
+
+* Indicate highlights from the stream (excluding the guess the SIF cards at the end).
+
+_______
+
 ### INSERT ADDITIONAL INFO HERE
 
 * USE BULLET POINTS
@@ -75,3 +84,9 @@ _______
 Missed out on the broadcast? 
 
 Watch the replay: [Facebook](INSERT URL HERE) or [YouTube](INSERT URL HERE)
+
+_______
+
+Edits:
+
+* Indicate all changes to Reddit post here.
