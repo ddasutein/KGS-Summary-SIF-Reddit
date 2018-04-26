@@ -9,12 +9,15 @@ How to use?
 
 - Copy and paste to Reddit as text and replace all title, text, and links with the relevant content. Use Imgur to link images.
 
-- Set the title as **"[Information] KLab Games Station Episode -EP # HERE- SIF Global/WW Corner Summary: -Insert Slogan (Optional)-
+- Set the title as **"[Information] KLab Games Station Episode -EP # HERE- SIF Global/WW Corner Summary: -Title Here(Optional)-
 
+- Use a longer format when writing the date (e.g, June 28, 2017). 
 
-### EVENT
+----------------------------------------------COPY AND PASTE CONTENT BELOW----------------------------------------------
 
-RikoRuby Score Match ends tomorrow, August 4, 2017.
+### Event
+
+(Insert event name here) ends tomorrow, August 4, 2017.
 
 _______
 
@@ -56,15 +59,9 @@ Cafe Maid Series | July 29, 2017
 
 _______
 
-### STREAM HIGHLIGHTS
+### News and stream highlights
 
-* Indicate highlights from the stream (excluding the guess the SIF cards at the end).
-
-_______
-
-### INSERT ADDITIONAL INFO HERE
-
-* USE BULLET POINTS
+* Indicate news or highlights related to Love Live
 
 _______
 
