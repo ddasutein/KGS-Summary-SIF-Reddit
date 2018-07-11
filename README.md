@@ -65,7 +65,7 @@ _______
 
 _______
 
-KLab Games Station airs every week on Thursday at 12 PM Japan time. You can watch it live on Facebook, YouTube, or [Twitch](https://www.twitch.tv/klabgamesstation). Note, this time chart does not reflect Daylight Saving Time (DST). You may adjust the time accordingly from Japan Time. 
+KLab Games Station airs every week on Thursday at 12 PM Japan time. You can watch it live on Facebook, YouTube,  [Twitch](https://www.twitch.tv/klabgamesstation), or [Periscope](https://twitter.com/KLab_EN). Note, this time chart does not reflect Daylight Saving Time (DST). You may adjust the time accordingly from Japan Time. 
 
 Time Zone | Time (12hr format) | Time (24hr format)
 :--|:--|:--
@@ -78,7 +78,7 @@ London, UK | 04:00 AM | 04:00
 
 _______
 
-Missed out on the broadcast? 
+Missed out on the livestream? 
 
 Watch the replay: [Facebook](INSERT URL HERE) or [YouTube](INSERT URL HERE)
 
